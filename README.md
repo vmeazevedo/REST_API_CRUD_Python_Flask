@@ -1,5 +1,5 @@
 # REST_API_CRUD_Python_Flask
-Um CRUD API desenvolvido em linguagem python utilizando o framework Flaks para o controle de informações sobre os meus livros e mangás.
+Um CRUD API desenvolvido em linguagem python utilizando o framework Flask para o controle de informações sobre os meus livros e mangás.
 
 
 ## POST
