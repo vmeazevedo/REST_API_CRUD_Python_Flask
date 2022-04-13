@@ -30,7 +30,6 @@ pip install -r requirements.txt
 
 3. Execute o arquivo python ``app.py``.
 
-4. A partir desse momento o monitoramento se inicia.
 
 
 ## Exemplificação dos Métodos via POSTMAN
