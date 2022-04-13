@@ -6,19 +6,19 @@ REST API desenvolvido em linguagem python utilizando o framework Flask para o co
 ![Star](https://img.shields.io/github/stars/vmeazevedo/REST_API_CRUD_Python_Flask?style=social)
 ![Fork](https://img.shields.io/github/forks/vmeazevedo/REST_API_CRUD_Python_Flask?label=Fork&style=social)
 
-<br>
+
 ## Apoie esse projeto! 💵💵
 Olá!
 Você pode realizar doações de qualquer banco para minha chave Pix Itaú: **865875c7-c1cc-4254-8585-7c1616dfbc59**
 
-<br>
+
 ## Requirements
 
 ```sh
 pip install -r requirements.txt
 ```
 
-<br>
+
 ## Exemplo de utilização
 
 1. Clone o repositório para sua máquina
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 4. A partir desse momento o monitoramento se inicia.
 
-<br>
+
 ## Exemplificação dos Métodos via POSTMAN
 ### POST
 
